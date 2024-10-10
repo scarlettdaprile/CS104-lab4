@@ -34,3 +34,6 @@ p{
 .custom-font{
     font-family: 'Times New Roman', serif;
 }
+#uppercase{
+    text-transform: uppercase;
+}
