@@ -37,3 +37,6 @@ p{
 #uppercase{
     text-transform: uppercase;
 }
+.capitalize-text{
+    text-transform: capitalize;
+}
