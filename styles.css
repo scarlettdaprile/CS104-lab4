@@ -19,3 +19,6 @@ header{
 .anchor{
     text-decoration: none;
 }
+.heading{
+    text-decoration: dashed underline;
+}
