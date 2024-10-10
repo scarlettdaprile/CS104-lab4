@@ -22,3 +22,6 @@ header{
 .heading{
     text-decoration: dashed underline;
 }
+.bold-text{
+    font-weight: bold;
+}
