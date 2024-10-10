@@ -31,3 +31,6 @@ header{
 p{
     font-family: arial, sans-serif
 }
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
